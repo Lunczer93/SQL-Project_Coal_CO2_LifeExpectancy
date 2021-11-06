@@ -1,5 +1,4 @@
-# SQL-Project_Coal_CO2_LifeExpectancy
-# SQL-Projects Coal Production and Consumption, Emission of CO2 and the length of the life expectancy.
+# SQL-Projects_Coal_CO2_LifeExpectancy
 
 # INTRODUCTION
 
