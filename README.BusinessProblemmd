@@ -1,12 +1,12 @@
 # SQL-Projects Coal Production and Consumption, Emission of CO2 and the length of the life expectancy.
 
-# 1.	INTRODUCTION
+# INTRODUCTION
 
 I was asked to analyze data that contains the information of countries regarding Coal Production, Coal Consumption, CO2 Emission and Life Expectancy since 2000.
 I am interested in details about this topic, so if I find anything interesting then I do not hesitate to bring that in also. 
 To analyze this data, I used Windows functions in SQL Server 
 
-# 2.	ANALYSIS
+# ANALYSIS
 
 The main task is to calculate which countries produce and consume the greatest and smallest amount of coal and which ones emitted the largest and smallest amount of CO2. 
 Then, the length of the life expectancy was also analyzed.
@@ -17,7 +17,7 @@ Last but not least, I would like to verify if the production and the consumption
 Then, I would like to analyze if there is any correlation between these ones.
 The whole steps of my analysis were described in my project.
 
-# 3.	THE MAIN CONCLUSIONS
+# THE MAIN CONCLUSIONS
 
 ## The production of coal
 1.	China produced the largest amount of coal between 2000 and 2019. The highest level of coal production (22171TWh) was found in 2019. Whereas Bhutan produced the smallest amount of coal in 2016, but interestingly Venezuela produced the smallest amount of coal in 2017, 2018 and 2019. The smallest level of coal production (1 TWh) was found in 2007 from Bhutan.  
