@@ -3,18 +3,25 @@
 # INTRODUCTION
 
 I was asked to analyze data that contains the information of countries regarding Coal Production, Coal Consumption, CO2 Emission and Life Expectancy since 2000.
+
 I am interested in details about this topic, so if I find anything interesting then I do not hesitate to bring that in also. 
+
 To analyze this data, I used Windows functions in SQL Server 
 
 # ANALYSIS
 
 The main task is to calculate which countries produce and consume the greatest and smallest amount of coal and which ones emitted the largest and smallest amount of CO2. 
+
 Then, the length of the life expectancy was also analyzed.
+
 Furthermore, an in-depth analysis was performed such as the statistical description, the cumulative distribution and the percentile rank, the classification of the countries by three groups based on the production, consumption of coal, emission of CO2 and the length of the life expectancy.
+
 The running total and the year over year percentage growth of coal production, coal consumption and CO2 emission were also calculated. 
 The analysis of the continents was also conducted.
+
 Last but not least, I would like to verify if the production and the consumption of coal and the emission of CO2 affect the life expectancy in these countries. 
 Then, I would like to analyze if there is any correlation between these ones.
+
 The whole steps of my analysis were described in my project.
 
 # THE MAIN CONCLUSIONS
